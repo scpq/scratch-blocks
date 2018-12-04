@@ -6,7 +6,7 @@
 /.github
 /.travis.yml
 /.tx
-/tests
+# /tests
 /webpack.config.js
 
 # Localization / I18N
